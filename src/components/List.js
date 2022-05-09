@@ -1,6 +1,6 @@
 import React from 'react';
 import { list } from '../data/data';
-import { Button, Image, Modal, Space, Toast, Divider } from 'antd-mobile';
+import { Button, Image, Modal } from 'antd-mobile';
 import './List.css';
 
 const Example = function() {
